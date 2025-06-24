@@ -17,6 +17,8 @@ public class Bee1005 {
     * */
 
     public static void main(String[] args) {
+        // para testar no intellij precisa usar o .useLocale(Locale.US) para padronizar o separador decimal de virugula para ponto
+        // na submissão para o Beecrowd não é necessário o Locale.US pois o sistema já está no padrão americano
         Scanner entrada = new Scanner(System.in).useLocale(Locale.US);
 
         double a = entrada.nextDouble();
