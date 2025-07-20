@@ -18,15 +18,16 @@ Bee1017.java    // Iniciante - Gasto de Combustível
 
 ## ✅ Problemas Resolvidos
 
-| Número | Nome do Problema                | Nível        |
-|--------|---------------------------------|--------------|
-| 1001   | Extremamente Básico             | Iniciante    |
-| 1005   | Média 1                         | Iniciante    |
-| 1007   | Diferença                       | Iniciante    |
-| 1013   | O Maior                         | Iniciante    |
-| 1014   | Consumo                         | Iniciante    |
-| 1015   | Distância Entre Dois Pontos     | Iniciante    |
-| 1017   | Gasto de Combustível            | Iniciante    |
+| Número | Nome do Problema            | Nível        |
+|--------|-----------------------------|--------------|
+| 1001   | Extremamente Básico         | Iniciante    |
+| 1005   | Média 1                     | Iniciante    |
+| 1007   | Diferença                   | Iniciante    |
+| 1013   | O Maior                     | Iniciante    |
+| 1014   | Consumo                     | Iniciante    |
+| 1015   | Distância Entre Dois Pontos | Iniciante    |
+| 1017   | Gasto de Combustível        | Iniciante    |
+| 1018   | Cédulas                     | Iniciante    |
 
 ## ▶️ Como Executar
 
