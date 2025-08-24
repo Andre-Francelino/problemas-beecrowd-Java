@@ -28,6 +28,7 @@ Bee1017.java    // Iniciante - Gasto de Combustível
 | 1015   | Distância Entre Dois Pontos | Iniciante    |
 | 1017   | Gasto de Combustível        | Iniciante    |
 | 1018   | Cédulas                     | Iniciante    |
+| 1019   | Conversão de Tempo          | Iniciante    |
 
 ## ▶️ Como Executar
 
