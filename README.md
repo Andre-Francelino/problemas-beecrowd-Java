@@ -29,6 +29,7 @@ Bee1017.java    // Iniciante - Gasto de Combustível
 | 1017   | Gasto de Combustível        | Iniciante    |
 | 1018   | Cédulas                     | Iniciante    |
 | 1019   | Conversão de Tempo          | Iniciante    |
+| 1020   | Idade em Dias               | Iniciante    |
 
 ## ▶️ Como Executar
 
